@@ -2,8 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './Containers/App';
-// import CardList from './CardList';
-// import Card from './Card.js';
 import 'tachyons';
 
 // import reportWebVitals from './reportWebVitals';
